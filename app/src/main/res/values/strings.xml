@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment_Layout3</string>
+    <string name="our_team_text">Our Team</string>
+    <string name="detail_text">A team is a group of individuals (human or non-human) working together to achieve their goal. ... Teams normally have members with complementary skills and generate synergy through a coordinated effort which allows each member to maximize their strengths and minimize their weaknesses.A group does not necessarily constitute a team. Teams normally have members with complementary skills[2] and generate synergy[3] through a coordinated effort which allows each member to maximize their strengths and minimize their weaknesses. Naresh Jain (2009) claims: Team members need to learn how to help one another, help other team members realize their true potential, and create an environment that allows everyone to go beyond their limitations.[4] While academic research on teams and teamwork has grown consistently and has shown a sharp increase over the past recent 40 years, the societal diffusion of teams and teamwork actually followed a volatile trend in the 20th century.[5] The concept was introduced[by whom?] into business in the late 20th century, which was followed by a popularization of the concept of constructing teams. Differing opinions exist on the efficacy of this new management fad.[6] Some see as a four-letter word: overused and under-useful.[7] Others see it as a panacea that realizes the human-relations movement\'s desire to integrate what that movement perceives as best for workers and as best for managers. </string>
+    <string name="amelia_stone">Amelia Stone</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="lee_su_yi">Lee Su Yi</string>
+    <string name="marketing_manager">Marketing Manager</string>
+    <string name="anna">Anna</string>
+    <string name="ui_ux_developer">UI/UX Developer</string>
+    <string name="mia_smith">Mia Smith</string>
+    <string name="web_developer">Web Developer</string>
+    <string name="selena_gomez">Selena Gomez</string>
+    <string name="graphic_designer">Graphic Designer</string>
+    <string name="can_yaman">Can Yaman</string>
+    <string name="team_leader">Team Leader</string>
+    <string name="mission_text">Mission</string>
+    <string name="log_in_text">Log in to your account</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password_text">Password</string>
+    <string name="or_connect_with">Or connect with</string>
+    <string name="package_shapping"><![CDATA[Package & Shapping]]></string>
+    <string name="ship_address">Ship Address</string>
+    <string name="delivery_method">Delivery Method</string>
+    <string name="delivery_time">Delivery Time</string>
+    <string name="cost">Cost</string>
+    <string name="name_shoe">Jog Air Mesh Summer Sneaker Shoes Sports Slip-on Max Size 46 Athletics Shoes</string>
+</resources>
